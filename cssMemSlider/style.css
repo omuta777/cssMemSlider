@@ -54,7 +54,7 @@ body {
 	margin: 40px 0 0 0;
 	font-size: 25px;
     line-height: 100%;
-	color: rgb(54, 55, 56);
+	color: rgb(12, 8, 66);
 	
 }
 .slide-text {
@@ -180,6 +180,9 @@ body {
 	.slide5 {
 		object-position: 90% 10%; 
 	}
+	.container label:before {
+		padding: 25px 25px 25px 25px;
+	}	
 
+} 
 
-}
